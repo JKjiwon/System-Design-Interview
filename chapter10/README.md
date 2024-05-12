@@ -124,6 +124,10 @@
 - 모니터링
 - 추적 시스템
 
+### 실제 사례
+
+- [알림 시스템 개선](https://taetaetae.github.io/2019/01/02/faster-parallel-processes)
+
 ## 참조
 
 [가상 면접 사례로 배우는 대규모 시스템 설계 기초](https://www.yes24.com/Product/Goods/102819435)
